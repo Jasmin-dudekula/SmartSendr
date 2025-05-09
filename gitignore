@@ -1,0 +1,16 @@
+# Sensitive files to exclude
+recipients.csv
+log.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+.venv/
+
+# IDE/editor files (optional)
+.vscode/
+.idea/
+*.swp

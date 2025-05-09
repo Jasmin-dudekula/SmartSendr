@@ -1,0 +1,21 @@
+2025-05-09 18:16:09.050109 - ✅ Sent to Tharun <tarunvarun4360@gmail.com>
+2025-05-09 18:16:22.910025 - ✅ Sent to Naveed <dnaveed@gmail.com>
+2025-05-09 18:16:37.517595 - ✅ Sent to Sushma <djasmin435@gmail.com>
+2025-05-09 18:16:51.018504 - ✅ Sent to Raj <jdd43500@gmail.com>
+2025-05-09 18:17:07.646325 - ✅ Sent to Varun <varunkumar4360@gmail.com>
+2025-05-09 18:17:07.658393 - 📊 Summary: 5 sent ✅, 0 failed ❗
+2025-05-09 18:30:40.872558 - ✅ Sent to Tharun <tarunvarun4360@gmail.com>
+2025-05-09 18:30:54.711017 - ✅ Sent to Naveed <dnaveed@gmail.com>
+2025-05-09 18:31:09.121390 - ✅ Sent to Sushma <djasmin435@gmail.com>
+2025-05-09 18:31:27.698017 - ✅ Sent to Raj <jdd43500@gmail.com>
+2025-05-09 18:31:40.486747 - ✅ Sent to Varun <varunkumar4360@gmail.com>
+2025-05-09 18:31:40.490558 - Summary: 5 sent ✅, 0 failed ❗
+2025-05-09 18:32:41.410870 - ❗Authentication failed: Incorrect Gmail App Password.
+2025-05-09 18:33:01.776743 - ✅ Sent to Tharun <tarunvarun4360@gmail.com>
+2025-05-09 18:33:15.478396 - ✅ Sent to Naveed <dnaved@gmail.com>
+2025-05-09 18:33:27.099599 - ✅ Sent to Sushma <djasmin435@gmail.com>
+2025-05-09 18:33:40.881924 - ✅ Sent to Raj <jdd43500@gmail.com>
+2025-05-09 18:33:54.343590 - ✅ Sent to Varun <varunkumar4360@gmail.com>
+2025-05-09 18:34:06.813696 - ✅ Sent to Riya <djasmin435@gmail.com>
+2025-05-09 18:34:25.377036 - ✅ Sent to Asif <jdd43500@gmail.com>
+2025-05-09 18:34:25.388092 - Summary: 7 sent ✅, 0 failed ❗
