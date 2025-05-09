@@ -1,4 +1,4 @@
-# SmartSendr – Python Email Automation Tool
+# SmartSendr – Keeps your mails out of spam folder
 
 SmartSendr is a Python-based command-line application, designed to simulate natural human behavior with dynamic delays, customizable messages, and UTF-8 logging — all to help improve deliverability and reduce the chances of your emails going to spam.
 
