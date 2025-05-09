@@ -1,13 +1,13 @@
 # SmartSendr – Python Email Automation Tool
 
-SmartSendr is a Python-based command-line application that automates sending personalized emails using Gmail's SMTP server. It is designed to simulate natural human behavior with dynamic delays, customizable messages, and UTF-8 logging — all to help improve deliverability and reduce the chances of your emails going to spam.
+SmartSendr is a Python-based command-line application, designed to simulate natural human behavior with dynamic delays, customizable messages, and UTF-8 logging — all to help improve deliverability and reduce the chances of your emails going to spam.
 
 
 #  Features
 
--  Send emails to multiple recipients from a CSV file.
--  Compose a custom subject and message body with `{name}` placeholders for personalization.
 -  Dynamic countdown delay between emails to mimic human-like sending behavior.
+-  Compose a custom subject and message body with `{name}` placeholders for personalization.
+-  Bulk mail sending without landing them into spam.
 -  Color-coded terminal output for success, failure, and status.
 -  Logs all email activity (sent/failed) with timestamps in `log.txt`.
 -  Secure login using Gmail App Password.
